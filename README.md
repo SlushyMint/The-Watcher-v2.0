@@ -16,7 +16,7 @@
 6. ttkbootstrap
 
 Tampilan Program:
-![image](https://github.com/user-attachments/assets/59a15759-f856-4e8f-87b5-0fc086c6e2a0)
+![Screenshot 2024-12-29 203010](https://github.com/user-attachments/assets/7cf39443-5981-4032-8f2b-08637ccdd961)
 
 Thanks To:
 * NeuralNine - https://youtu.be/QPjPyUJeYYE?si=yXZcBWAFgxt9SIP5 
