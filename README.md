@@ -1,4 +1,4 @@
-# The Wacther v2.0
+# The Watcher v2.0
 **The Watcher** adalah sebuah program motion-detection surveillance system yang dibangun dengan Python.
 
 ## Fitur-Fitur
